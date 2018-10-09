@@ -3,8 +3,7 @@ gallery-dl
 ==========
 
 *gallery-dl* is a command-line program to download image-galleries and
--collections from several image hosting sites such as pixiv.net, exhentai.org,
-danbooru.donmai.us and several more (see `Supported Sites`_).
+-collections from several image hosting sites (see `Supported Sites`_).
 It requires Python 3.4+ to run and works on Unix-like systems as well as on
 Windows.
 
